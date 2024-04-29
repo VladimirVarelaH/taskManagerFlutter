@@ -1,6 +1,6 @@
-# flutter_application_1
+# TaskManager
 
-A new Flutter project.
+Este es un proyecto de Flutter, consiste en una aplicación de tareas con soporte multi idioma. Se desarrolló como una prueba y se testeó sólo para Android, opteniendo los resultados esperados.  
 
 ## Getting Started
 
